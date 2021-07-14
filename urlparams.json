@@ -1,4 +1,4 @@
 {
-    "flags": "-HnroE",
-    "pattern": "(\?[A-z].*[&]?)"
+    "flags": "-riE",
+    "pattern": "[?].*[&]?"
 }
